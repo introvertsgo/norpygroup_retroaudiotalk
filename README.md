@@ -27,7 +27,7 @@ Slides from Lightning Talk On Retro Computer Audio
 
 ![Title](https://github.com/introvertsgo/norpygroup_retroaudiotalk/raw/master/slides/13.jpeg "Title")
 
-![Title](https://github.com/introvertsgo/norpygroup_retroaudiotalk/raw/master/slides/14.jpeg "Title")
+https://youtu.be/_kDhpFaf4EY
 
 ![Title](https://github.com/introvertsgo/norpygroup_retroaudiotalk/raw/master/slides/15.jpeg "Title")
 
