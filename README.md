@@ -75,10 +75,8 @@ Protracker. The Grandaddy of Music Trackers. https://en.wikipedia.org/wiki/ProTr
 
 ![Title](https://github.com/introvertsgo/norpygroup_retroaudiotalk/raw/master/slides/20.jpeg "Title")
 
-Another Protracker Screenshot.
+Trackers Today. The Music tracker in Fantasy Console TIC-80. https://tic.computer/ 
 
 ![Title](https://github.com/introvertsgo/norpygroup_retroaudiotalk/raw/master/slides/21.jpeg "Title")
-
-Trackers Today. The Music tracker in Fantasy Console TIC-80. https://tic.computer/
 
 https://youtu.be/khmJMpOdiRM Example of TIC-80 Music on the game Witch 'em up.
